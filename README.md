@@ -61,60 +61,6 @@ I'm an **Undergrad Student🎓 [@Aspire Group of Colleges](https://www.aspirecol
 
 </details>
 
-### 🚀 Quick Stats
-
-<p align="center">
-<br>
-
-<a href="https://github.com/evildevill">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evildevill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/evildevill">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=evildevill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
-</p>
-
-[![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://bit.ly/hackerwasiisg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=evildevill&theme=onedark)](https://github.com/evildevill)
-
-<details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/evildevill/instahack">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=instahack&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/evildevill/instainfo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=instainfo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/evildevill/Hackerwasi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=Hackerwasi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<a href="https://github.com/evildevill/Fatrat">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=evildevill&repo=Fatrat&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-</p>
-
 ### 📕 My Blog Posts
 
 <!-- LIST:START -->
@@ -133,6 +79,21 @@ I'm an **Undergrad Student🎓 [@Aspire Group of Colleges](https://www.aspirecol
 - [more blog posts ...](https://www.hackerwasii.com/posts/)
 ---
 
+### 🚀 Quick Stats
+
+<p align="center">
 <br>
 
-</details>
+<a href="https://github.com/evilcrop">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evildevill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/evildevill">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=evildevill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
+</p>
+
+[![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://bit.ly/hackerwasiisg)
